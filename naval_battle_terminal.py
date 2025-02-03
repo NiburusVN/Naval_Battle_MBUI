@@ -1,5 +1,4 @@
 """
-test
 Version 2 dimension
 Fonction NouveauPlateau
 Michel
