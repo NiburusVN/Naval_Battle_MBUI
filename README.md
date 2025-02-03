@@ -18,7 +18,7 @@ Naval Battle is a funny game that we call in France (jeu de société) to play a
 
 ## A little look of the UI of the game :
 
-### With processing
+### With processing (Unfinished)
 
 ![image](https://github.com/user-attachments/assets/b7ceecf0-6b50-4612-9ad9-d3eecaaa5d74)
 
