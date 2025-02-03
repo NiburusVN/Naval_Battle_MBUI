@@ -1,4 +1,4 @@
-**! IMPORTANT ! This project is an old project that i transfer in GitHub because i used only GitLab and my local repositories from my laptop.**
+**! IMPORTANT ! This project is an old project that I transfer in GitHub. The reason is that I used only GitLab and my local repositories from my old laptop.**
 
 #	[Naval Battle]
 
