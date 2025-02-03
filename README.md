@@ -6,7 +6,7 @@
 
 ## Introduction :
 
-During the highschool in 2022, i had to develop my first real game without game engine like Unity nor Godot. 
+During the highschool in 2022, I had to develop my first real game without game engine like Unity nor Godot. 
 I was with my partner Amine Belhaj and we worked on this project for 1 month only. 
 So we used to manage our stress due to the pression of our teacher and the deadline !
 
