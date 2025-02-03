@@ -1,6 +1,6 @@
 ! IMPORTANT ! This project is an old project that i transfer in GitHub because i used only GitLab and my local repositories from my laptop.
 
-[Naval Battle]
+#	** ** [Naval Battle]
 
 // Introduction :
 
@@ -33,6 +33,8 @@ Naval Battle is a funny game that we call in France (jeu de société) to play a
 // Some information about the technologies:
 
 Language : Python
+
 IDE : EduPython
+
 UI technology : Processing
 
