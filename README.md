@@ -1,8 +1,8 @@
-! IMPORTANT ! This project is an old project that i transfer in GitHub because i used only GitLab and my local repositories from my laptop.
+**! IMPORTANT ! This project is an old project that i transfer in GitHub because i used only GitLab and my local repositories from my laptop.
 
-#	** ** [Naval Battle]
+#	[Naval Battle]
 
-// Introduction :
+## Introduction :
 
 During the highschool in 2022, i had to develop my first real game without game engine like Unity nor Godot. 
 I was with my partner Amine Belhaj and we worked on this project for 1 month only. 
