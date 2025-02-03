@@ -36,5 +36,5 @@ Naval Battle is a funny game that we call in France (jeu de société) to play a
 
 Language : Python
 
-IDE : Processing and Python
+IDE : Processing and EduPython
 
