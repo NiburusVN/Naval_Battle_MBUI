@@ -8,12 +8,6 @@ Amine
 import random
 import copy
 import time
-
-def affichage():
-    image(grille, 0, 0, 300, 300)
-    image(grille, 500, 0, 300, 300)
-    image(deathstar, 300, 20, 200, 280)
-
             
         
 # Les images en caractères
