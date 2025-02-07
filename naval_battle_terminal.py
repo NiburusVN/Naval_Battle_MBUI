@@ -9,67 +9,6 @@ import random
 import copy
 import time
 
-game = False
-def setup():
-    global grille, deathstar, intercepteur, TIE, superdestroyer, croiseur, explosion, rate
-    grille = loadImage("grille.png")
-    deathstar = loadImage("etoiledelamort.png")
-    intercepteur = loadImage("intercepteur.png")
-    TIE = loadImage("TIE.png")
-    superdestroyer = loadImage("superdestroyer.png")
-    croiseur = loadImage("croiseur.png")
-    explosion = loadImage("BOOM.png")
-    rate = loadImage("rate.png")
-    size(800,800)
-check = False
-partie = False
-tours = "joueur"
-def draw():
-    if game == False:
-        textFont(createFont("taille", 40))
-        text("Star Wars", 100, 120)
-        textFont(createFont("taille", 40))
-        text("SQUADRON", 70, 160)
-def mouseReleased():
-    global game
-    if game == False:
-        rect(0, 800,0, 800)
-        fill(0)
-        rect(0, 0, 800, 800)
-        stroke(255)
-        rect(0, 300, 300, 100)
-        stroke(255)
-        rect(500, 300, 300, 100)
-        textFont(createFont("taille", 40))
-        fill(255)
-        text("PLAYER", 70, 360)
-        textFont(createFont("taille", 40))
-        fill(255)
-        text("ORDI", 570, 360)
-        affichage()
-        if (mouseX >100 and mouseX <800 and mouseY > 120 and mouseY < 800):
-            game = True
-    if game == True:
-        LancerPartie(10)
-            rect(0, 800,0, 800)
-            fill(0)
-            rect(0, 0, 800, 800)
-            stroke(255)
-            rect(0, 300, 300, 100)
-            stroke(255)
-            rect(500, 300, 300, 100)
-            textFont(createFont("taille", 40))
-            fill(255)
-            text("PLAYER", 70, 360)
-            textFont(createFont("taille", 40))
-            fill(255)
-            text("ORDI", 570, 360)
-            affichage()
-        
-        
-    if (mouseX >0 and mouseX <10 and mouseY > 0 and mouseY < 10):
-        exit()
-
 def affichage():
     image(grille, 0, 0, 300, 300)
     image(grille, 500, 0, 300, 300)
